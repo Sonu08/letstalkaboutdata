@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9fbfe;
+  color: #1b2a4e;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0078d4;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+main {
+  padding: 2rem;
+}
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  margin-bottom: 2rem;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #e6f1ff;
+  color: #333;
+  font-size: 0.9rem;
+}
