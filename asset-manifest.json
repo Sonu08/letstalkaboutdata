@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sonu08/letstalkaboutdata/static/css/main.3cbefc3f.css",
-    "main.js": "/Sonu08/letstalkaboutdata/static/js/main.c83d9c81.js",
-    "index.html": "/Sonu08/letstalkaboutdata/index.html",
-    "main.3cbefc3f.css.map": "/Sonu08/letstalkaboutdata/static/css/main.3cbefc3f.css.map",
-    "main.c83d9c81.js.map": "/Sonu08/letstalkaboutdata/static/js/main.c83d9c81.js.map"
+    "main.css": "/letstalkaboutdata/static/css/main.3cbefc3f.css",
+    "main.js": "/letstalkaboutdata/static/js/main.c83d9c81.js",
+    "index.html": "/letstalkaboutdata/index.html",
+    "main.3cbefc3f.css.map": "/letstalkaboutdata/static/css/main.3cbefc3f.css.map",
+    "main.c83d9c81.js.map": "/letstalkaboutdata/static/js/main.c83d9c81.js.map"
   },
   "entrypoints": [
     "static/css/main.3cbefc3f.css",
